@@ -93,4 +93,4 @@ Game Link : [Game](https://www.roblox.com/games/3956818381/Ninja-Legends)
 #### Mining Simulator 2
 Game Link : [Game](https://www.roblox.com/games/9551640993/MYSTERY-LUCK-Mining-Simulator-2)
 
-- Redeem All Codes
+- Redeem All Codes, Yes that's all
