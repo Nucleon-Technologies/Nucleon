@@ -47,3 +47,41 @@ Game Link : [Game](https://web.roblox.com/games/3851622790/Break-In-Story?gameSe
 - Unlock Safe
 - Get Tool / Item
 - Teleport to area (Still WIP)
+
+#### OOF Tycoon!
+Game Link : [Game](https://www.roblox.com/games/10325366821/OOF-Tycoon-Update-4)
+
+- Auto-collect OOFS
+- Auto Upgrade
+- Auto-buy Noobs
+
+
+#### Rebirth Champions X
+Game Link : [Game](https://www.roblox.com/games/8540346411/AQUA-Rebirth-Champions-X)
+
+- Auto-Rebirth
+- Auto-Click
+- Auto-Buy Egg
+- Auto Upgrade
+
+
+#### Speed Run Simulator
+Game Link : [Game](https://www.roblox.com/games/7047488135/Speed-Run-Simulator)
+
+- Auto-Click
+- Auto-Collect Orbs
+- Collect All Orbs (OverPowered)
+
+
+#### Ninja Legends
+Game Link : [Game](https://www.roblox.com/games/3956818381/Ninja-Legends)
+
+-Auto-Swing Katana
+-Auto-Upgrade Katana
+-Auto-Sell
+
+
+#### Mining Simulator 2
+Game Link : [Game](https://www.roblox.com/games/9551640993/MYSTERY-LUCK-Mining-Simulator-2)
+
+- Redeem All Codes
