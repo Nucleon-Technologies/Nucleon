@@ -1,0 +1,49 @@
+# Nucleon
+You can get the script here : [Nucleon](https://github.com/Zywuss/NucleonScript/blob/main/Script.md)
+## Supported executors
+### Why you need a good executor?
+You need a good quality executor for Nucleon's needs. Without a good executor, Roblox might crash or Nucleon will get an error. If it does get an error its because your executor doesnt have the required `Lua` Functions expected by Nucleon.
+
+We are trying our best to support **Oxygen U**
+
+#### **Krnl**
+- Krnl is supported by Nucleon, And a good quality executor to work with C:, Its basically a `free` alternitive of Synapse!, You can download it here : [Krnl](https://krnl.place)
+
+#### **Synapse**
+- Synapse is the **best** executor in the community, It can run all scripts, Its the best executor to work with, All though its `paid`, Its an amazing executor! You can download from here : [Synapse](https://x.synapse.to/)
+
+#### **Script-Ware**
+- Script-Ware is also one of the best. It almost has the same execution power as Synapse, It can run **99%** of all scripts, Synapse wins only because there are some 'Synapse Only Scripts'. Forgot to mention that it is `Paid`, You can download here : [Script-Ware](https://Script-Ware.com)
+
+## Supported Games
+####  Build A Boat For Treasure! 
+Game Link : [Game](https://web.roblox.com/games/537413528/Build-A-Boat-For-Treasure?gameSearchSessionInfo=9687e705-4c7b-43b7-9acc-08bbb1218be9&isAd=false&nativeAdData=&numberOfLoadedTiles=66&page=searchPage&placeId=537413528&position=0&universeId=210851291)
+- Auto Win
+
+- Get Tool (Not FE After you use the tool, You wont be able to save your boat.)
+
+- Auto Buy Chests (Choose the chest you want and just toggle the Auto-Buy.)
+
+- Safe Mode (Removes Water Damage)
+
+#### Tapping Simulator
+Game Link : [Game](https://web.roblox.com/games/9498006165/TRADE-PLAZA-Tapping-Simulator?gameSearchSessionInfo=35a61c47-d47e-4ca6-8cad-550d76723e04&isAd=false&nativeAdData=&numberOfLoadedTiles=66&page=searchPage&placeId=9498006165&position=0&universeId=3539939379)
+- Auto Tap 
+- Auto Buy Eggs (You can choose your egg)
+- Auto Rebirth(Choose how many times you wanna rebirth)
+- Go To Island (You can choose your island)
+
+#### Break In (Story)
+Game Link : [Game](https://web.roblox.com/games/3851622790/Break-In-Story?gameSearchSessionInfo=1c987d4a-4147-4dde-a8aa-af465cd50a03&isAd=false&nativeAdData=&numberOfLoadedTiles=66&page=searchPage&placeId=3851622790&position=0&universeId=1318971886)
+
+- Lag Server
+- Befriend Cat
+- Inf Energy
+- Get Med Kit
+- Heal Everyone
+- Unlock Basement
+- Unlock Attic
+- Get Safe Code
+- Unlock Safe
+- Get Tool / Item
+- Teleport to area (Still WIP)
