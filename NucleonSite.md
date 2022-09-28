@@ -1,5 +1,13 @@
 # Nucleon
-You can get the script here : [Nucleon](about:blank)
+You can get the script here : 
+```LUA
+getgenv().NCLKey = 'Your Key Here'
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nucleon-Technologies/Zyllus-Likes-E-Kittens/main/sex.lua", true))()
+```
+
+Get key here : [Key](https://link-center.net/444397/nucleon-key-link)
+
 ## Supported executors
 ### Why you need a good executor?
 You need a good quality executor for Nucleon's needs. Without a good executor, Roblox might crash or Nucleon will get an error. If it does get an error its because your executor doesnt have the required `Lua` Functions expected by Nucleon.
