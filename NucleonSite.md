@@ -1,5 +1,5 @@
 # Nucleon
-You can get the script here : [Nucleon](https://github.com/Zywuss/NucleonScript/blob/main/Script.md)
+You can get the script here : [Nucleon](about:blank)
 ## Supported executors
 ### Why you need a good executor?
 You need a good quality executor for Nucleon's needs. Without a good executor, Roblox might crash or Nucleon will get an error. If it does get an error its because your executor doesnt have the required `Lua` Functions expected by Nucleon.
