@@ -10,6 +10,8 @@ Discord : [yes](https://discord.gg/SEsrrCGU8K)
 
 Get key here : [Key](https://link-center.net/444397/nucleon-key-link)
 
+Supported Game : [Supported Games](https://github.com/Nucleon-Technologies/Nucleon/blob/main/Support.md)
+
 ## Supported executors
 ### Why you need a good executor?
 You need a good quality executor for Nucleon's needs. Without a good executor, Roblox might crash or Nucleon will get an error. If it does get an error its because your executor doesnt have the required `Lua` Functions expected by Nucleon.
