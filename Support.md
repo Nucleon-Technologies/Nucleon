@@ -80,3 +80,15 @@ Game : [Game](https://web.roblox.com/games/2248408710/Destruction-Simulator)
 
 - Infinite Money
 - Auto-Sell
+
+### Mr Nightmare 
+
+Game Link : [Game](https://web.roblox.com/games/10675175616/Mr-NIGHTMARES-SCHOOL-SCARY-OBBY)
+
+- Reach The End
+
+### Barry's Prison Run
+
+Game Link : [Game](https://web.roblox.com/games/8712817601/BARRYS-PRISON-RUN-First-Person-Obby)
+
+- Reach the end
