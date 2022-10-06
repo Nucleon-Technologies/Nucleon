@@ -75,5 +75,8 @@ Game Link : [Game](https://web.roblox.com/games/155382109/Survive-and-Kill-the-K
 - Get all Guns
 
 ### Destruction Simulator
+
+Game : [Game](https://web.roblox.com/games/2248408710/Destruction-Simulator)
+
 - Infinite Money
 - Auto-Sell
