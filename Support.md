@@ -59,12 +59,21 @@ Game Link : [Game](https://www.roblox.com/games/7047488135/Speed-Run-Simulator)
 ### Ninja Legends
 Game Link : [Game](https://www.roblox.com/games/3956818381/Ninja-Legends)
 
--Auto-Swing Katana
--Auto-Upgrade Katana
--Auto-Sell
+- Auto-Swing Katana
+- Auto-Upgrade Katana
+- Auto-Sell
 
 
 ### Mining Simulator 2
 Game Link : [Game](https://www.roblox.com/games/9551640993/MYSTERY-LUCK-Mining-Simulator-2)
 
 - Redeem All Codes, Yes that's all
+
+### Survive The Killers Of Area 51
+Game Link : [Game](https://web.roblox.com/games/155382109/Survive-and-Kill-the-Killers-in-Area-51)
+- Get Gun
+- Get all Guns
+
+### Destruction Simulator
+- Infinite Money
+- Auto-Sell
