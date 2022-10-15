@@ -6,11 +6,7 @@ getgenv().NCLKey = 'Enter key, You can get it from the key link down below'
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nucleon-Technologies/Zyllus-Likes-E-Kittens/main/sex.lua", true))()
 ```
 
-Discord : [yes](https://discord.gg/SEsrrCGU8K)
 
-Get key here : [Key](https://link-center.net/444397/nucleon-key-link)
-
-Supported Game : [Supported Games](https://github.com/Nucleon-Technologies/Nucleon/blob/main/Support.md)
 
 ## Supported executors
 ### Why you need a good executor?
