@@ -1,7 +1,7 @@
 # Nucleon
 You can get the script here : 
 ```LUA
-getgenv().NCLKey = 'Enter key, You can get it from the key link down below'
+getgenv().NCLKey = 'Key Disabled'
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nucleon-Technologies/Zyllus-Likes-E-Kittens/main/sex.lua", true))()
 ```
