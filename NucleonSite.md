@@ -1,6 +1,7 @@
 # Nucleon
 You can get the script here : 
 ```LUA
+-- The key system has been disabled. You don't need it anymore! :D
 getgenv().NCLKey = nil
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nucleon-Technologies/Zyllus-Likes-E-Kittens/main/sex.lua", true))()
